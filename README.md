@@ -11,7 +11,7 @@
         <div class="logo">Ballack Pod's</div>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="#">Ler</a></li>
                 <li><a href="#">Produtos</a></li>
                 <li><a href="#">Sobre</a></li>
                 <li><a href="#">Contato</a></li>
