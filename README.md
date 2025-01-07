@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <div class="logo">Vape Store</div>
+        <div class="logo">Ballack Pod's</div>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
